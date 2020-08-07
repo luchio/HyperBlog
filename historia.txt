@@ -1,5 +1,6 @@
-Esto es una prueba de que git me puede ser muy util 
+Esto es una prueba de que git me puede ser muy util util
 alsdajlsjd 
 aaaa ujuu 
 una nueva linea agrego
-caca
+caca caquita
+hola
